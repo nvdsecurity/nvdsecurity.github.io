@@ -10761,3 +10761,11 @@ body {
   margin-right: 30px;
   font-size: large;
 }
+
+ul > li {
+  color: rgb(197, 44, 36);
+}
+
+ul > li > b {
+  color: white;
+}
