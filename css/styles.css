@@ -10649,7 +10649,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   background: black;
 }
 .about-section p {
@@ -10666,7 +10666,7 @@ body {
 
 .projects-section {
   /*padding: 10rem 0;*/
-  padding-top: 10rem;
+  padding-top: 5rem;
   padding-bottom: 5rem;
 }
 .projects-section .featured-text {
@@ -10704,7 +10704,7 @@ body {
 }
 
 .contact-section {
-  padding-top: 5rem;
+  padding-top: 0rem;
 }
 .contact-section .card {
   border: 0;
