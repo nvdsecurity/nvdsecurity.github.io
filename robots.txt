@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://securitynvd.cz/sitemap.xml

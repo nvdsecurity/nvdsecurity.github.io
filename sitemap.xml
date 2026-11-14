@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://securitynvd.cz/</loc>
-  <lastmod>2023-08-28T10:12:19+00:00</lastmod>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://securitynvd.cz/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://securitynvd.cz/assets/img/secMan3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://securitynvd.cz/assets/img/person6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://securitynvd.cz/assets/img/event.jpg</image:loc></image:image>
+    <image:image><image:loc>https://securitynvd.cz/assets/img/bar2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://securitynvd.cz/assets/img/limo.jpg</image:loc></image:image>
+  </url>
 </urlset>
